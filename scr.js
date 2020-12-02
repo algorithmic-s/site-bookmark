@@ -162,7 +162,7 @@ function fetchBookmarks() {
                                         '<h3>'+name+
                                        // '<a onclick = " goLink() "    target = "_blank"  class = "btn btn-default"   href = "http://google.com">jsk</a>' + 
 
-                                        `</br></br> <a class = "btn btn-default" target = "_blank" href = "http://${url}" >Visit </a>` +
+                                        `</br></br> <a class = "btn btn-default" target = "_blank" href = "${url}" >Visit </a>` +
                                         ' <a onclick = "deleteBookmark(\''+url+'\')" class ="btn btn-danger"  href="#">Delete</a> ' +
                                       //' <a onclick="deleteBookmark(\''+url+'\')" class="btn btn-danger" href="#">Delete</a> ' +
                                         '</h3>'+
