@@ -3,9 +3,9 @@
     PROJECT DESCRIPTION:
 * a simple site bookmarking application enhanced by CSS/Bootstrap to look user-friendly
 
-    LANGUAGES
+         LANGUAGES
 * uses JavaScript/CSS/HTML5
 
-    RESOURCES
+         RESOURCES
 https://getbootstrap.com/docs/4.0/getting-started/download/
 https://icons.getbootstrap.com/icons/book-fill/
